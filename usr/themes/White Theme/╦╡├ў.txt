@@ -1,0 +1,13 @@
+typecho主题
+主题名称:White Theme
+主题介绍:白色,宽版,简洁,两栏
+必须插件:友情链接插件(如不需要本插件,请应用主题后在后台设置外观里去掉显示友情链接前的对勾)
+侧边栏可控(设置外观)
+底部微博链接可控制(设置外观)
+关于兼容问题,IE系列除了IE9其他的没测试,有问题的话反馈过来把,其他的应该没问题
+演示地址:www.kongweicong.com
+主题问题反馈:http://www.kongweicong.com/archives/White-Theme/
+
+本主题可自行随意修改发布,无须通知作者.
+使用本款主题,请勿删除底部Theme by KongWeicong标示及其链接!
+如需移除请在友情链接里添加 南京seo 地址:http://www.1987y.org/
